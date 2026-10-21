@@ -1,1 +1,0 @@
-incident_id,run_id,route,risk_tier,escalation_flag,sentinel_suspected,gahar_notify_by,rca_due_by,citation_status,mean_score,alert_level,proposed_actions,review_status,action_status,approval_decision,reviewer_id,approval_channel,reviewer_comment,action_owner,due_date,resolved_at,created_at

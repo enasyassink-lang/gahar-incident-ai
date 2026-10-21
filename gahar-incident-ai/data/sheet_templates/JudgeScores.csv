@@ -1,1 +1,0 @@
-incident_id,run_id,route,risk_tier,factual_accuracy,groundedness,safety_compliance,format_adherence,bias,mean_score,alert_level,judge_status,citation_status,draft_seconds,models,created_at
